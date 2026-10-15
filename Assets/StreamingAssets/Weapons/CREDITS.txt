@@ -1,0 +1,9 @@
+Weapon sprites: "16x16 Weapons RPG Icons"
+Source folder: D:\My Projects\Game\Idea Game thứ nhất\16x16 Weapons RPG Icons
+
+Chỉ dùng: sword_iron.png (và sword_gold.png để dành nâng cấp sau) — cắt từ
+iron-weapons.png / gold-weapons.png, ô (cột 3, hàng 4).
+
+⚠ LƯU Ý BẢN QUYỀN: bộ icon này tải về KHÔNG kèm file license.
+=> Dùng tạm cho game HỌC TẬP / CÁ NHÂN.
+=> Nếu phát hành/thương mại: phải xác minh bản quyền tác giả hoặc thay art khác.

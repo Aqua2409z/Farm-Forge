@@ -1,0 +1,12 @@
+Art assets in this folder: "Sprout Lands - Basic pack"
+Author / Credit: Cup Nooble
+Source: https://cupnooble.itch.io/sprout-lands-asset-pack
+
+License (Basic pack, free version):
+- Non-commercial use only.
+- You MAY modify the assets.
+- You may NOT redistribute or resell the assets (even modified).
+- No NFTs, no AI training.
+- Credit is REQUIRED, e.g.:  Assets -From : Sprout Lands  -By : Cup Nooble
+
+In-game credit is shown in the bottom-right corner of the HUD.

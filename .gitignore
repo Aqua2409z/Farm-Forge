@@ -1,0 +1,40 @@
+# ==========================================
+# Unity generated folders & files to IGNORE
+# ==========================================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Visual Studio / VS Code generated files
+/.vs/
+/.vscode/
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.opendb
+/*.VC.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+[Tt]humbs.db
+
+# Additional builds / temp
+*.apk
+*.aab
+*.unitypackage
